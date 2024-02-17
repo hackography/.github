@@ -12,23 +12,18 @@ Our mission is to provide insights that enlighten, educate, and inspire. From ba
 
 We believe in the power of community and collaboration. Whether you're a coder, designer, writer, or videographer, there's a place for you here. Your contributions can help us expand our offerings and support our readers' and viewers' passion for photography and videography at every skill level.
 
-## Contributing
-
-- **Community Contributions:** Check out our [Issues](https://github.com/Hackography/issues) tab for areas where we need help, or suggest new features and improvements.
-- **Guidelines:** Please read our `CONTRIBUTING.md` file in any of our repositories for more information on how to contribute effectively.
-
 ## 📚 Resources
 
 - **Website and Tutorials:** Visit [hackography.com](https://hackography.com) for our latest articles and guides.
 - **YouTube Channel:** Subscribe to [Hackography on YouTube](https://youtube.com/hackography) for video tutorials and gear reviews.
 
-## 🎉 Fun Fact
+## ⚠️ Disclaimer
 
-Our team's breakfast choices are as diverse as our projects! From smoothie bowls to avocado toast, we believe in starting the day right to fuel our creativity and productivity.
+The information provided by Hackography is for educational purposes only. We are not liable for any damage or loss incurred from the application of this information. Use discretion and consult a professional if necessary before following any instructions or advice. Viewer and user discretion is advised.
 
 ## 💬 Stay Connected
 
-Join our journey where technology meets art. Follow us on [Twitter](https://twitter.com/hackography), [Facebook](https://facebook.com/hackography), [Instagram](https://instagram.com/hackography), and [LinkedIn](https://linkedin.com/company/hackography) for updates, discussions, and more insights into the world of photography and camera tech.
+Join our journey where technology meets art. Follow us on [Twitter](https://twitter.com/hackographycom), [Facebook](https://www.facebook.com/hackographycom/), [Instagram](https://www.instagram.com/hackographycom/), and [LinkedIn](https://linkedin.com/company/hackography) for updates, discussions, and more insights into the world of photography and camera tech.
 
 ## Subscribe
 
