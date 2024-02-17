@@ -25,10 +25,6 @@ The information provided by Hackography is for educational purposes only. We are
 
 Join our journey where technology meets art. Follow us on [Twitter](https://twitter.com/hackographycom), [Facebook](https://www.facebook.com/hackographycom/), [Instagram](https://www.instagram.com/hackographycom/), and [LinkedIn](https://linkedin.com/company/hackography) for updates, discussions, and more insights into the world of photography and camera tech.
 
-## Subscribe
+## 📬 Subscribe
 
 Don't miss out on our latest findings and updates—subscribe to our newsletter through [hackography.com](https://hackography.com).
-
----
-
-"Where technology meets art, and creativity knows no bounds." - **Hackography**
