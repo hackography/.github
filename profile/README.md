@@ -15,7 +15,7 @@ We believe in the power of community and collaboration. Whether you're a coder, 
 ## 📚 Resources
 
 - **Website and Tutorials:** Visit [hackography.com](https://hackography.com) for our latest articles and guides.
-- **YouTube Channel:** Subscribe to [Hackography on YouTube](https://youtube.com/hackography) for video tutorials and gear reviews.
+- **YouTube Channel:** Subscribe to [Hackography on YouTube](https://www.youtube.com/channel/UC2xZucdUyEaIhB1rXSGODfQ) for video tutorials and gear reviews.
 
 ## ⚠️ Disclaimer
 
