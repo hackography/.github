@@ -2,7 +2,7 @@
 
 ## 📸 About Hackography
 
-Hackography is an independent platform dedicated to mastering the art and science of photography, filmmaking, videography, and cinematography. We're passionate about fine-tuning gear for peak performance, exploring the intricate dance of technology and artistry in modern visual and audio storytelling. Founded to demystify the technological complexity behind stunning visuals, Hackography empowers enthusiasts and professionals to push their creative boundaries.
+[Hackography](https://hackography.com/) is an independent platform dedicated to mastering the art and science of photography, filmmaking, videography, and cinematography. We're passionate about fine-tuning gear for peak performance, exploring the intricate dance of technology and artistry in modern visual and audio storytelling. Founded to demystify the technological complexity behind stunning visuals, Hackography empowers enthusiasts and professionals to push their creative boundaries.
 
 ## 🌟 Our Mission
 
